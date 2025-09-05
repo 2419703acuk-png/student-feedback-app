@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700174697733",
+    "project_id": "student-feedback-app-c7e5a",
+    "storage_bucket": "student-feedback-app-c7e5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700174697733:android:d3dd1dba0afaa1a824236c",
+        "android_client_info": {
+          "package_name": "com.feedback.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwk8NM9JcFck2xgC8V0u4na1_aeHzItNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
